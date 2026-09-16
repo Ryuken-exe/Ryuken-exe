@@ -1,88 +1,93 @@
 <p align="center">
   <img src="_3.jpg" width="55%" alt="Ryūken Banner">
 </p>
-<p align="center"> <h1 align="center">Ryūken</h1> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Python+Developer;Problem+Solver;Always+Learning+%26+Building" alt="Typing SVG" /> </p>
+
+<h1 align="center">Ryūken</h1>
+
+<p align="center">
+  <b>Python Developer · Problem Solver · Builder</b>
+</p>
 
 <p align="center">
   <a href="https://github.com/Ryuken-exe">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a **Python Developer** who enjoys turning ideas into practical projects.
+I'm a **Python Developer** focused on building practical software and improving my problem-solving skills.
 
-* 🐍 Building with **Python**
-* 🗄️ Working with **SQL & databases**
-* 🧠 Improving problem-solving skills
-* 🔨 Learning by building real projects
-* 🚀 Always looking for something new to build
+* 🐍 Python
+* ⚡ JavaScript
+* 🗄️ SQL & Databases
+* 🔧 Automation & Backend Development
+* 🧠 Problem Solving
+* 🚀 Learning by Building
 
-> **I don't just learn technology — I build with it.**
+> **Learn. Build. Break. Fix. Repeat.**
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
-### Languages
+**Languages**
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,js,cpp" />
 </p>
 
-### Databases
+**Databases**
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
 </p>
 
-### Tools
+**Tools**
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,linux" />
-
 </p>
 
 ---
 
-## 🚀 What I'm Building
+## What I Build
 
-| Area               | Focus                         |
-| ------------------ | ----------------------------- |
-| 🐍 Python          | Applications & automation     |
-| 🌐 Backend         | APIs & web applications       |
-| 🗄️ Databases       | SQL, PostgreSQL & MySQL       |
-| 🧠 Problem Solving | Algorithms & logical thinking |
-| 🔧 Projects        | Practical tools & experiments |
+| Area            | Focus                         |
+| --------------- | ----------------------------- |
+| Python          | Applications & automation     |
+| JavaScript      | Web development & scripting   |
+| Backend         | APIs & web applications       |
+| Databases       | SQL, PostgreSQL & MySQL       |
+| Problem Solving | Algorithms & logical thinking |
+| Projects        | Practical tools & experiments |
 
 ---
 
-## 🧩 Currently Exploring
+## Currently Learning
 
 ```text
-Python          ████████████████████  90%
-SQL             ███████████████░░░░░  75%
-Git & GitHub    ████████████████░░░░  80%
-Problem Solving █████████████░░░░░░░  65%
+Python        → Automation, backend & projects
+JavaScript    → Web development
+C++           → Programming fundamentals & problem solving
+SQL           → Data manipulation & databases
+Git/GitHub    → Version control & collaboration
 ```
 
 ---
 
-## 💡 Developer Philosophy
+## Philosophy
 
 <p align="center">
 
-### **"Learn. Build. Break. Fix. Repeat."**
+### Learn → Build → Break → Fix → Repeat
 
 </p>
 
 ---
 
 <p align="center">
-  <b>Thanks for stopping by 👋</b>
-  <br>
-  <sub>Codes.</sub>
+  <sub>Building things, one project at a time.</sub>
 </p>
