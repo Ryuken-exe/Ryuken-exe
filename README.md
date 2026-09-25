@@ -36,19 +36,19 @@ I'm a **Python Developer** focused on building practical software and improving 
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,js,cpp,go" />
 </p>
 
 **Databases**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,nodejs" />
 </p>
 
 **Tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker" />
 </p>
 
 ---
