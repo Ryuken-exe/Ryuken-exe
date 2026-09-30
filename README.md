@@ -5,7 +5,7 @@
 <h1 align="center">Ryūken</h1>
 
 <p align="center">
-  <b>Python Developer · Problem Solver · Builder</b>
+  <b>Python Developer · Learner · Builder</b>
 </p>
 
 <p align="center">
