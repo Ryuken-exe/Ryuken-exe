@@ -6,7 +6,6 @@
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=Ryuken-exe&style=flat-square&color=7c3aed&label=PROFILE+VIEWS" alt="Profile views" />
 <img src="https://img.shields.io/badge/Status-Always%20Learning-a78bfa?style=flat-square&labelColor=0d1117" alt="Status: Always learning" />
 <img src="https://img.shields.io/badge/Vibe-Nocturnal-7c3aed?style=flat-square&labelColor=0d1117" alt="Nocturnal vibe" />
 
