@@ -105,10 +105,6 @@ Building skills one project at a time. Curious about how things work under the h
 ## 📈 github stats
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ryuken-exe&show_icons=true&hide_border=true&rank_icon=github&bg_color=0d1117&title_color=c4b5fd&icon_color=a78bfa&text_color=c9d1d9&include_all_commits=true" alt="Ryūken's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryuken-exe&layout=compact&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=c9d1d9" alt="Most-used programming languages" />
-
 <br /><br />
 
 <img width="70%" src="https://streak-stats.demolab.com/?user=Ryuken-exe&hide_border=true&background=0d1117&ring=a78bfa&fire=c4b5fd&currStreakLabel=c4b5fd&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" alt="GitHub contribution streak" />
