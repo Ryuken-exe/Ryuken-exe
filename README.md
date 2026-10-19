@@ -46,7 +46,7 @@ Building skills one project at a time. Curious about how things work under the h
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,postgres,mysql,linux,docker&theme=dark" alt="C++, Python, PostgreSQL, MySQL, Linux and Docker" />
+<img src="https://skillicons.dev/icons?i=cpp,python,go,postgres,mysql,linux,docker&theme=dark" alt="C++, Python, Go, PostgreSQL, MySQL, Linux and Docker" />
 
 <br /><br />
 
@@ -56,6 +56,8 @@ Building skills one project at a time. Curious about how things work under the h
 <img src="https://img.shields.io/badge/PostgreSQL-Database%20Design-4c1d95?style=flat-square&logo=postgresql&logoColor=c4b5fd&labelColor=0d1117" alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/Linux-Command%20Line%20%26%20System%20Tools-4c1d95?style=flat-square&logo=linux&logoColor=c4b5fd&labelColor=0d1117" alt="Linux" />
 <img src="https://img.shields.io/badge/Docker-Containerization-4c1d95?style=flat-square&logo=docker&logoColor=c4b5fd&labelColor=0d1117" alt="Docker" />
+<img src="https://img.shields.io/badge/Go-Backend%20Development-4c1d95?style=flat-square&logo=go&logoColor=c4b5fd&labelColor=0d1117" alt="Go" />
+
 
 <br /><br />
 
@@ -87,6 +89,7 @@ Building skills one project at a time. Curious about how things work under the h
       <b>🐳 Docker</b><br />
       <sub>containers<br />& environments</sub>
     </td>
+      
   </tr>
 </table>
 
