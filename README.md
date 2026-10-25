@@ -1,131 +1,118 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:4c1d95,100:a78bfa&height=220&section=header&text=Ry%C5%ABken&fontSize=64&fontColor=f5f3ff&fontAlignY=36&desc=%E9%BE%8D%E6%8B%B3%20%E2%80%A2%20Learn.%20Build.%20Repeat.&descSize=18&descAlignY=58&descColor=ddd6fe&animation=fadeIn" width="100%" alt="Ryūken profile header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:08080f,45:2e1065,100:8b5cf6&text=RY%C5%A0KEN&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=%E9%BE%8D%E6%8B%B3%20%E2%80%A2%20Learn.%20Build.%20Evolve.&descSize=16&descAlignY=59&descColor=c4b5fd&animation=fadeIn" width="100%" alt="Ryūken — Learn, Build, Evolve" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=C4B5FD&center=true&vCenter=true&width=520&lines=%3E+writing+linux;%3E+automating+life+with+Python;%3E+exploring+new+projects+%26+ideas;%3E+learning.+building.+improving." alt="Typing introduction" /></a>
+<br/>
 
-<br />
+<samp>STUDENT &nbsp;·&nbsp; DEVELOPER &nbsp;·&nbsp; LIFELONG LEARNER</samp>
 
-<img src="https://img.shields.io/badge/Status-Always%20Learning-a78bfa?style=flat-square&labelColor=0d1117" alt="Status: Always learning" />
-<img src="https://img.shields.io/badge/Vibe-Nocturnal-7c3aed?style=flat-square&labelColor=0d1117" alt="Nocturnal vibe" />
+<br/><br/>
+
+<a href="https://github.com/Ryuken-exe">
+  <img src="https://img.shields.io/badge/GitHub-Ryuken--exe-181825?style=for-the-badge&logo=github&logoColor=c4b5fd" alt="GitHub profile"/>
+</a>
+<img src="https://img.shields.io/badge/STATUS-LEARNING-2e1065?style=for-the-badge&labelColor=0d0b14" alt="Always learning"/>
+
+<br/><br/>
+
+*Curiosity drives me. Code shapes my ideas.*
 
 </div>
 
-<br />
+---
 
-## 🌙 whoami
+## `01` — About me
 
 ```cpp
 #include <iostream>
 #include <string>
 
-using namespace std;
-
 struct Developer {
-    string alias     = "Ryūken (龍拳)";
-    string role      = "Student & Developer";
-    string interests = "Backend, Data & Systems";
-    string fuel      = "Curiosity & late-night coffee";
-    string motto     = "Learn. Build. Repeat.";
+    std::string alias = "Ryūken (龍拳)";
+    std::string focus = "Backend & Systems";
+    std::string mindset = "Always curious";
+    std::string motto = "Learn. Build. Evolve.";
 };
 
 int main() {
     const Developer me;
-
-    cout << me.motto << '\n';
-
-    return 0;
+    std::cout << me.motto << '\n';
 }
 ```
 
-Building skills one project at a time. Curious about how things work under the hood, from algorithms and systems to databases and automation.
+I'm a student and developer fascinated by what happens
+under the hood — from algorithms and databases to Linux
+internals and automation.
 
-<br />
+- ⚙️ &nbsp; Exploring systems and backend development
+- 🐍 &nbsp; Automating repetitive tasks with Python
+- 🗄️ &nbsp; Learning database design and SQL
+- 🌱 &nbsp; Improving one project at a time
 
-## ⚡ tech stack
+---
+
+## `02` — Tech arsenal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,go,postgres,mysql,linux,docker&theme=dark" alt="C++, Python, Go, PostgreSQL, MySQL, Linux and Docker" />
+### Languages
 
-<br /><br />
+<img src="https://skillicons.dev/icons?i=cpp,python,go&theme=dark" alt="C++, Python and Go"/>
 
-<img src="https://img.shields.io/badge/C%2B%2B-Systems%20%26%20Problem%20Solving-4c1d95?style=flat-square&logo=cplusplus&logoColor=c4b5fd&labelColor=0d1117" alt="C++" />
-<img src="https://img.shields.io/badge/Python-Automation%20%26%20Scripting-4c1d95?style=flat-square&logo=python&logoColor=c4b5fd&labelColor=0d1117" alt="Python" />
-<img src="https://img.shields.io/badge/SQL-Queries%20%26%20Data-4c1d95?style=flat-square&logo=postgresql&logoColor=c4b5fd&labelColor=0d1117" alt="SQL" />
-<img src="https://img.shields.io/badge/PostgreSQL-Database%20Design-4c1d95?style=flat-square&logo=postgresql&logoColor=c4b5fd&labelColor=0d1117" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Linux-Command%20Line%20%26%20System%20Tools-4c1d95?style=flat-square&logo=linux&logoColor=c4b5fd&labelColor=0d1117" alt="Linux" />
-<img src="https://img.shields.io/badge/Docker-Containerization-4c1d95?style=flat-square&logo=docker&logoColor=c4b5fd&labelColor=0d1117" alt="Docker" />
-<img src="https://img.shields.io/badge/Go-Backend%20Development-4c1d95?style=flat-square&logo=go&logoColor=c4b5fd&labelColor=0d1117" alt="Go" />
+### Databases & infrastructure
 
-
-<br /><br />
-
-<table>
-  <tr>
-    <td align="center" width="200">
-      <b>⚙️ C++</b><br />
-      <sub>problem solving<br />& systems thinking</sub>
-    </td>
-    <td align="center" width="200">
-      <b>🐍 Python</b><br />
-      <sub>automation<br />& scripting</sub>
-    </td>
-    <td align="center" width="200">
-      <b>🗄️ SQL</b><br />
-      <sub>queries<br />& data analysis</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200">
-      <b>🐘 PostgreSQL</b><br />
-      <sub>database design<br />& fundamentals</sub>
-    </td>
-    <td align="center" width="200">
-      <b>🐧 Linux</b><br />
-      <sub>command line<br />& system tools</sub>
-    </td>
-    <td align="center" width="200">
-      <b>🐳 Docker</b><br />
-      <sub>containers<br />& environments</sub>
-    </td>
-      
-  </tr>
-</table>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,linux,docker&theme=dark" alt="PostgreSQL, MySQL, Linux and Docker"/>
 
 </div>
 
-<br />
+| Domain | Current focus |
+|:--|:--|
+| ⚙️ **C++** | Problem solving & systems thinking |
+| 🐍 **Python** | Automation & scripting |
+| 🐹 **Go** | Backend development |
+| 🗄️ **SQL** | Queries & data fundamentals |
+| 🐘 **PostgreSQL** | Database design |
+| 🐧 **Linux** | CLI & system tools |
+| 🐳 **Docker** | Containers & environments |
 
-## 🔭 currently
+---
 
-- **Building:** personal projects
-- **Exploring:** databases, Linux, and Docker
-- **Improving:** problem-solving and coding skills
-
-<br />
-
-## 📈 github stats
+## `03` — What I'm working on
 
 <div align="center">
-<br /><br />
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=Ryuken-exe&hide_border=true&background=0d1117&ring=a78bfa&fire=c4b5fd&currStreakLabel=c4b5fd&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" alt="GitHub contribution streak" />
+| 🌌 Focus | 🎯 Direction |
+|:--|:--|
+| **Building** | Personal projects |
+| **Exploring** | Linux, databases & Docker |
+| **Practicing** | Algorithms & problem solving |
+| **Growing** | Writing cleaner, better code |
 
 </div>
 
-<br />
+---
 
-## 🐉 philosophy
+## `04` — The philosophy
 
 <div align="center">
+
+<br/>
 
 ### 「 七転び八起き 」
 
-*Fall seven times, stand up eight.*
+*Fall seven times. Stand up eight.*
 
-**Learn. Build. Repeat.**
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:4c1d95,100:a78bfa&height=110&section=footer" width="100%" alt="Purple footer banner" />
+<sub>Progress over perfection. Consistency over intensity.</sub>
+
+<br/><br/>
+
+**LEARN. &nbsp; BUILD. &nbsp; EVOLVE.**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:8b5cf6,50:2e1065,100:08080f" width="100%" alt="Purple wave footer"/>
 
 </div>
