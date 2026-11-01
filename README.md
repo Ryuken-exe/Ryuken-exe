@@ -1,11 +1,10 @@
-
-<div align="center">
+ <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:08080f,45:2e1065,100:8b5cf6&text=RY%C5%A0KEN&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=%E9%BE%8D%E6%8B%B3%20%E2%80%A2%20Learn.%20Build.%20Evolve.&descSize=16&descAlignY=59&descColor=c4b5fd&animation=fadeIn" width="100%" alt="Ryūken — Learn, Build, Evolve" />
 
 <br/>
 
-<samp>STUDENT &nbsp;·&nbsp; DEVELOPER &nbsp;·&nbsp; LIFELONG LEARNER</samp>
+<samp>STUDENT · DEVELOPER · LIFELONG LEARNER</samp>
 
 <br/><br/>
 
@@ -41,14 +40,12 @@ int main() {
 }
 ```
 
-I'm a student and developer fascinated by what happens
-under the hood — from algorithms and databases to Linux
-internals and automation.
+I'm a student and developer fascinated by what happens under the hood — from algorithms and databases to Linux internals and automation.
 
-- ⚙️ &nbsp; Exploring systems and backend development
-- 🐍 &nbsp; Automating repetitive tasks with Python
-- 🗄️ &nbsp; Learning database design and SQL
-- 🌱 &nbsp; Improving one project at a time
+- ⚙️ Exploring systems and backend development
+- 🐍 Automating repetitive tasks with Python
+- 🗄️ Learning database design and SQL
+- 🌱 Improving one project at a time
 
 ---
 
@@ -67,7 +64,7 @@ internals and automation.
 </div>
 
 | Domain | Current focus |
-|:--|:--|
+|---|---|
 | ⚙️ **C++** | Problem solving & systems thinking |
 | 🐍 **Python** | Automation & scripting |
 | 🐹 **Go** | Backend development |
@@ -83,7 +80,7 @@ internals and automation.
 <div align="center">
 
 | 🌌 Focus | 🎯 Direction |
-|:--|:--|
+|---|---|
 | **Building** | Personal projects |
 | **Exploring** | Linux, databases & Docker |
 | **Practicing** | Algorithms & problem solving |
@@ -93,7 +90,17 @@ internals and automation.
 
 ---
 
-## `04` — The philosophy
+## `04` — GitHub streak
+
+<div align="center">
+
+### 🔥 Contribution Streak
+
+<a href="https://github.com/Ryuken-exe">
+  <img src="https://streak-stats.demolab.com?user=Ryuken-exe&theme=midnight-purple&hide_border=true&background=08080f&ring=8b5cf6&fire=c4b5fd&currStreakLabel=c4b5fd&sideLabels=c4b5fd&dates=8b5cf6&currStreakNum=ffffff&sideNums=ffffff&stroke=2e1065" width="90%" alt="GitHub Current and Longest Contribution Streak"/>
+</a>
+
+## `05` — The philosophy
 
 <div align="center">
 
@@ -105,11 +112,11 @@ internals and automation.
 
 <br/>
 
-<sub>Progress over perfection. Consistency over intensity.</sub>
+Progress over perfection. Consistency over intensity.
 
 <br/><br/>
 
-**LEARN. &nbsp; BUILD. &nbsp; EVOLVE.**
+**LEARN. BUILD. EVOLVE.**
 
 <br/>
 
