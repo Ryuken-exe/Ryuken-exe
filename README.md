@@ -9,9 +9,7 @@
 
 <br/><br/>
 
-*Curiosity drives me. Code shapes my ideas.*
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=C4B5FD&center=true&vCenter=true&width=560&lines=%E3%80%8C+%E9%BE%8D%E6%8B%B3+%E3%80%8D+%E2%80%94+Hello+there+!!!;Ore+wa+Ry%C5%ABken.;Learn.+Build.+Evolve." alt="Typing animation"/>
 
 ---
 
@@ -30,7 +28,6 @@
 struct Developer {
     std::string alias   = "Ryūken (龍拳)";
     std::string focus   = "Backend & Systems";
-    std::string mindset = "Always curious";
     std::string motto   = "Learn. Build. Evolve.";
 };
 
@@ -74,21 +71,7 @@ int main() {
 
 ---
 
-## `04` — GitHub streak
-
-<div align="center">
-
-### 🔥 Contribution Streak
-
-<a href="https://github.com/Ryuken-exe">
-  <img src="https://streak-stats.demolab.com?user=Ryuken-exe&theme=midnight-purple&hide_border=true&background=08080f&ring=8b5cf6&fire=c4b5fd&currStreakLabel=c4b5fd&sideLabels=c4b5fd&dates=8b5cf6&currStreakNum=ffffff&sideNums=ffffff&stroke=2e1065" width="90%" alt="GitHub Current and Longest Contribution Streak"/>
-</a>
-
-</div>
-
----
-
-## `05` — The philosophy
+## `04` — The philosophy
 
 <div align="center">
 
