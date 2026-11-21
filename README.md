@@ -11,6 +11,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=C4B5FD&center=true&vCenter=true&width=560&lines=%E3%80%8C+%E9%BE%8D%E6%8B%B3+%E3%80%8D+%E2%80%94+Hello+there+!!!;Ore+wa+Ry%C5%ABken.;Learn.+Build.+Evolve." alt="Typing animation"/>
 
+</div>
+
 ---
 
 ## `01` — About me
@@ -21,20 +23,17 @@
 <tr>
 <td>
 
-```cpp
-#include <iostream>
-#include <string>
+```python
+from dataclasses import dataclass
 
-struct Developer {
-    std::string alias   = "Ryūken (龍拳)";
-    std::string focus   = "Backend & Systems";
-    std::string motto   = "Learn. Build. Evolve.";
-};
+@dataclass(frozen=True)
+class Developer:
+    alias: str = "Ryūken (龍拳)"
+    focus: str = "Backend & Systems"
+    motto: str = "Learn. Build. Evolve."
 
-int main() {
-    const Developer me;
-    std::cout << me.motto << '\n';
-}
+me = Developer()
+print(me.motto)
 ```
 
 </td>
@@ -49,29 +48,17 @@ int main() {
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=cpp,python,go&theme=dark" alt="C++, Python and Go"/>
+<img src="https://skillicons.dev/icons?i=python,r&theme=dark" alt="Python and R"/>
 
-### Databases & infrastructure
+### Databases
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,linux,docker&theme=dark" alt="PostgreSQL, MySQL, Linux and Docker"/>
-
-</div>
-
-## `03` — What I'm working on
-
-<div align="center">
-
-| 🌌 Focus | 🎯 Direction |
-|---|---|
-| **Building** | Personal projects |
-| **Exploring** | Linux, databases & Docker |
-| **Growing** | Writing cleaner, better code |
+<img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" alt="PostgreSQL and MySQL"/>
 
 </div>
 
 ---
 
-## `04` — The philosophy
+## `03` — The philosophy
 
 <div align="center">
 
